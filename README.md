@@ -5,7 +5,11 @@
 
 ![image](https://user-images.githubusercontent.com/71881747/123388751-2118f980-d5d4-11eb-9cbd-68de0e44a691.png)
 
-![image](https://user-images.githubusercontent.com/71881747/123388694-0a72a280-d5d4-11eb-8087-7ce2703fd7e2.png)
+--------------------
+시연영상
+
+
+---------------------------
 
 프로젝트를 계획한 이유
 
